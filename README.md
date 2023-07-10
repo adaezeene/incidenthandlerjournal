@@ -18,55 +18,19 @@ As I worked through Google's Cybersecurity course, I used this template to recor
 
 <h2>Incident handler's journal entries:</h2>
 
-<p align="center">
-Entry 1: 
 
- <br/>
+
 
  
-<img src="https://i.imgur.com/6tkFrvQ.jpg" height="80%" width="80%" alt="entry1"/>
-<br />
-
-<br />
-Entry 2:  <br/>
-
-
-<img src="https://i.imgur.com/tN3Ljhl.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-
-<br />
-Entry 3:  <br/>
+ 
+<img src="https://i.imgur.com/RQ6Z1cX.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
+<img src="https://i.imgur.com/SH7Oqpm.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
+<img src="https://i.imgur.com/mrL6E62.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
+<img src="https://i.imgur.com/mqpJbwN.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
+<img src="https://i.imgur.com/efVfhQk.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
+<img src="https://i.imgur.com/2KU5Sjp.jpg" height="80%" width="80%" alt="incidenthandlerjournal"/>
 
 
-<img src="https://i.imgur.com/udmltRc.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-
-<br />
-Entry 4:  <br/>
-
-
-<img src="https://i.imgur.com/roKMq31.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-
-<br />
-Entry 5:  <br/>
-
-
-<img src="https://i.imgur.com/ULMtVx0.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-
-<br />
-Entry 6:  <br/>
-
-
-<img src="https://i.imgur.com/Eeqr0KQ.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-
-<br />
-Reflections/Notes: <br/>
-<img src="https://i.imgur.com/Ln47I8y.jpg" height="80%" width="80%" alt="journalentry"/>
-<br />
-<br />
 
 
 <!--
